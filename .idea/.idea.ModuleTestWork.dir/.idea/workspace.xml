@@ -4,7 +4,12 @@
     <projectFile>ModuleTestWork.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2735f34b-2f56-4dd8-b74e-98828fa203c5" name="Changes" comment="" />
+    <list default="true" id="2735f34b-2f56-4dd8-b74e-98828fa203c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleTestWork.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ModuleTestWork.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ModuleTestWork.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/ModuleTestWork.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/ModuleTestWork.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +26,15 @@
         <entry key="$PROJECT_DIR$/.." value="module_testwork" />
       </map>
     </option>
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f78c8a7d-c28c-4c03-b5ca-0721c85ce886" />
+        <option name="url" value="https://github.com/StanislavAndroshchuk/ModuleTestWork.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6879c9ed20391a5ccfea363be5964fbcfe4f1dfde9558aa84b36df6b6ec92c6/List.cs" root0="SKIP_HIGHLIGHTING" />
@@ -30,7 +44,7 @@
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2OgDhGvRvSHSTeC5GWmOQA45GGh" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -83,6 +97,10 @@
       <workItem from="1681973449363" duration="8035000" />
       <workItem from="1681982499535" duration="581000" />
       <workItem from="1682581927711" duration="1061000" />
+      <workItem from="1683183720537" duration="1122000" />
+      <workItem from="1683188524844" duration="42000" />
+      <workItem from="1683188592089" duration="138000" />
+      <workItem from="1683189002414" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="Module Variant 2">
       <created>1681980230975</created>
